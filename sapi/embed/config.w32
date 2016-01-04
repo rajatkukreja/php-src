@@ -1,7 +1,7 @@
 // vim:ft=javascript
 // $Id$
 
-ARG_ENABLE('embed', 'Embedded SAPI library', 'no');
+ARG_ENABLE('embed', 'Embedded SAPI library', 'yes');
 
 var PHP_EMBED_PGO = false;
 
